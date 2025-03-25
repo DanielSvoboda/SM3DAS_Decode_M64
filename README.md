@@ -1,8 +1,8 @@
-# Decoding Language File from Mario 64 (Nintendo Switch)
+# Decoding Language File from Mario 64 (Switch)
 
 An attempt to decode the language translation file, Messages.bin, from the game `Mario 64`, specifically the Nintendo Switch version included in `'Super Mario 3D All-Stars'`.
 
-The file in question is: 010049900F546001\romfs\Message\EUen\`Messages.bin`
+The file in question is: 010049900F546001\romfs\Message\EUen\Messages.bin
 
 The header has not been decoded yet; only the text starting from address 0x000009B0 has been analyzed.
 
